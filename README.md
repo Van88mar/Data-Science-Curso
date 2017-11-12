@@ -1,2 +1,8 @@
 # Data-Science-Curso
-My first repository on GitHub
+#.gitignore
+# History files
+.Rhistory
+.Rapp.history
+
+# Session Data files
+.RData
